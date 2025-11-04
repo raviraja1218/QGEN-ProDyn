@@ -1,0 +1,19 @@
+{
+  "grid_points": 24,
+  "phi_range": [-180, 180],
+  "psi_range": [-180, 180],
+  "low_energy_frac": 0.15,
+  "vqe": {
+    "ansatz": "TwoLocal",
+    "layers": 2,
+    "entanglement": "linear",
+    "optimizer": "COBYLA",
+    "shots": 8192,
+    "backend": "aer_simulator_statevector"
+  },
+  "reference": {
+    "mode": "proxy_mm",
+    "level": "B3LYP/6-31G*"
+  },
+  "random_seed": 12345
+}
