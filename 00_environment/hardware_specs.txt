@@ -1,0 +1,5 @@
+CPU: AMD/Intel Model
+GPU: NVIDIA RTX 4060 Laptop
+RAM: 16GB
+OS: Windows 11 + WSL2 Ubuntu 22.04
+Python: 3.10

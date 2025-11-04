@@ -1,0 +1,5 @@
+- environment locked
+- hardware recorded
+- seeds stored
+- splits saved
+- DPI rules followed

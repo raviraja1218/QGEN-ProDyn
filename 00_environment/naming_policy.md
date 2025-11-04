@@ -1,0 +1,3 @@
+figure_1a_description.svg
+table_2_results.csv
+models/qnn_weights_seed123.pt
