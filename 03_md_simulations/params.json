@@ -1,0 +1,19 @@
+{
+  "platform": "CPU",
+  "temperature_K": 300.0,
+  "friction_ps": 1.0,
+
+  "timestep_fs": 1.0,
+  "equil_steps": 4000,
+  "nsteps": 50000,
+  "report_every": 200,
+  "dcd_stride": 200,
+
+  "ph": 7.4,
+  "constraints": "HBonds",
+  "nonbonded_method": "NoCutoff",
+
+  "small_equil_dt_fs": 0.5,
+  "small_equil_steps": 3000,
+  "equil_restraints_k_kcal_A2": 5.0
+}
