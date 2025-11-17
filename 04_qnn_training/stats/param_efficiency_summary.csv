@@ -1,0 +1,3 @@
+compare,mlp_mean_params,hybrid_mean_params,ratio,percent_of_mlp,compression_x,qnn_core_mean_params
+HYBRID_QNN_vs_MLP,2369.0,66.0,0.027859856479527226,2.7859856479527227,35.89393939393939,
+QNN_CORE_vs_MLP,2369.0,,0.017306880540312368,1.7306880540312368,57.78048780487805,41.0

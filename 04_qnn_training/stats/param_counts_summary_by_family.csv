@@ -1,0 +1,4 @@
+index,family,mean_params,median_params,n_files
+0,HYBRID_QNN,66.0,66.0,5
+1,MLP,2369.0,2369.0,5
+2,QNN_CORE,41.0,41.0,5

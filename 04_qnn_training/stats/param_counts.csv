@@ -1,0 +1,16 @@
+model_file,params
+mlp_fold2.pt,2369
+hybrid_qnn_fold5.pt,66
+hybrid_qnn_fold1.pt,66
+qnn_fold5.pt,41
+mlp_fold1.pt,2369
+qnn_fold2.pt,41
+mlp_fold5.pt,2369
+mlp_fold3.pt,2369
+hybrid_qnn_fold2.pt,66
+qnn_fold4.pt,41
+hybrid_qnn_fold3.pt,66
+hybrid_qnn_fold4.pt,66
+qnn_fold1.pt,41
+qnn_fold3.pt,41
+mlp_fold4.pt,2369

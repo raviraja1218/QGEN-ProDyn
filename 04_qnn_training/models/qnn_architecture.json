@@ -1,0 +1,16 @@
+{
+  "qubits": 8,
+  "encoding": {
+    "type": "ZZFeatureMap",
+    "depth": 2
+  },
+  "ansatz": {
+    "type": "TwoLocal",
+    "entanglement": "linear",
+    "reps": 2
+  },
+  "trainable_params": 112,
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "loss": "MSE"
+}
