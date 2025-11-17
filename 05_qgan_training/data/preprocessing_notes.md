@@ -1,0 +1,7 @@
+- source_features: /home/raviraja/QGEN-ProDyn/04_qnn_training/data/qnn_input_features_norm.npy
+- source_labels: /home/raviraja/QGEN-ProDyn/04_qnn_training/data/qnn_labels_norm.npy
+- method: PCA(n_components=3)
+- n_samples: 16
+- feature_shape: (16, 3)
+- latent_shape: (16, 3)
+- date_utc: 2025-11-17T19:03:57.985408Z
